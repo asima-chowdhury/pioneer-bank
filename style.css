@@ -20,8 +20,8 @@ body{
     background-image:linear-gradient(to left, #07F8C3 , #4289FF);
 }
 .withdraw{
-    background-image:linear-gradient(to left, #feb692 , #ea5455);
-}
-.balance{
     background-image:linear-gradient(to left, #e2b0ff , #9f44d3);
+}
+.balance{    
+    background-image:linear-gradient(to left, #feb692 , #ea5455);
 }
